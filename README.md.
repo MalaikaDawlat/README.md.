@@ -1,0 +1,28 @@
+# Figma Design Repository
+
+This repository contains the exported assets and files from the [Figma Design](https://www.figma.com/design/YYycpwC4EZ18dYpk4txyAP/Untitled?node-id=219-7&p=f&t=XokFtuXtAjjiB8c7-0).
+
+## Overview
+
+The design includes the following:
+- **Pages**: Overview of different screens in the app.
+- **Components**: Reusable elements for consistent UI/UX.
+- **Exported Assets**: Images and icons used in the design.
+
+## Files Included
+1. Exported assets (PNG, JPG, or SVG)
+2. `.fig` file for importing into Figma
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   ```
+2. Navigate to the folder and open the design files.
+3. For `.fig` files, upload them into [Figma](https://www.figma.com/).
+
+## Figma Design Link
+Access the design directly [here](https://www.figma.com/design/YYycpwC4EZ18dYpk4txyAP/Untitled?node-id=219-7&p=f&t=XokFtuXtAjjiB8c7-0).
+
+## License
+This repository follows the MIT License. For more information, see [LICENSE](LICENSE).
